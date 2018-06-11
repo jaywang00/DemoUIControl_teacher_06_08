@@ -30,7 +30,8 @@
         <activity android:name=".RecyclerViewEx" />
         <activity android:name=".ListViewEx2" />
         <activity android:name=".SpinnerEx" />
-        <activity android:name=".AutoCompleteTextViewEx"></activity>
+        <activity android:name=".AutoCompleteTextViewEx" />
+        <activity android:name=".GridViewEx"></activity>
     </application>
 
 </manifest>

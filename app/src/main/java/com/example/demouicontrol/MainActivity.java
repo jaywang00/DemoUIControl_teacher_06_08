@@ -11,8 +11,8 @@ import android.widget.ListView;
 public class MainActivity extends AppCompatActivity implements AdapterView.OnItemClickListener{
 
     ListView listView;
-    String[] array = {"SeekBarEx", "VideoViewEx", "DatePickerEx","SpinnerEx","AutoCompleteTextViewEx"};
-    Class<?>[] activities = {SeekBarEx.class,VideoViewEx.class,DatePickerEx.class,SpinnerEx.class, AutoCompleteTextViewEx.class};
+    String[] array = {"SeekBarEx", "VideoViewEx", "DatePickerEx","SpinnerEx","AutoCompleteTextViewEx","GridViewEx"};
+    Class<?>[] activities = {SeekBarEx.class,VideoViewEx.class,DatePickerEx.class,SpinnerEx.class, AutoCompleteTextViewEx.class,GridViewEx.class};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
