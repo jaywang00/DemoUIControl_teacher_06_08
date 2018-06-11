@@ -22,6 +22,6 @@ public class GridViewEx extends AppCompatActivity implements AdapterView.OnItemC
 
     @Override
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-        Toast.makeText(this,"The"+(position+1)+"Item",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"The "+(position+1)+" Item",Toast.LENGTH_SHORT).show();
     }
 }
