@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cards">
+        <item>01 VISA</item>
+        <item>02 MasterCard</item>
+        <item>03 JBC</item>
+        <item>04 HSBC</item>
+        <item>05 CityBank</item>
+        <item>06 SD</item>
+    </string-array>
+</resources>
