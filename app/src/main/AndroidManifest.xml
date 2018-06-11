@@ -26,10 +26,11 @@
         <activity
             android:name=".VideoViewEx"
             android:theme="@style/AppThemeFull" />
-        <activity android:name=".ListViewEx"></activity>
-        <activity android:name=".RecyclerViewEx"></activity>
-        <activity android:name=".ListViewEx2"></activity>
-        <activity android:name=".SpinnerEx"></activity>
+        <activity android:name=".ListViewEx" />
+        <activity android:name=".RecyclerViewEx" />
+        <activity android:name=".ListViewEx2" />
+        <activity android:name=".SpinnerEx" />
+        <activity android:name=".AutoCompleteTextViewEx"></activity>
     </application>
 
 </manifest>

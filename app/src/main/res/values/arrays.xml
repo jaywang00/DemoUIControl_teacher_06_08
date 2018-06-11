@@ -8,4 +8,12 @@
         <item>05 CityBank</item>
         <item>06 SD</item>
     </string-array>
+    <string-array name="cities">
+        <item>Keelung</item>
+        <item>Taipei</item>
+        <item>Taiching</item>
+        <item>Tainan</item>
+        <item>PingDong</item>
+        <item>Ilan</item>
+    </string-array>
 </resources>
